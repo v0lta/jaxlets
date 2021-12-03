@@ -1,9 +1,12 @@
+This repository has been deprecated. The current version of the toolbox is available at:
+https://github.com/v0lta/Jax-Wavelet-Toolbox
+
+
+
 jaxlets
 =======
 Differentiable and gpu enabled fast wavelet transforms in jax. 
 
-This repository has been deprecated. The current version of the toolbox is available at:
-https://github.com/v0lta/Jax-Wavelet-Toolbox
 
 Features
 --------
