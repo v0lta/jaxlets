@@ -2,6 +2,9 @@ jaxlets
 =======
 Differentiable and gpu enabled fast wavelet transforms in jax. 
 
+This repository has been deprecated. The current version of the toolbox is available at:
+https://github.com/v0lta/Jax-Wavelet-Toolbox
+
 Features
 --------
 - 1d forward and backward fwt are implemented in `src/jaxlets/conv_fwt.py`.
