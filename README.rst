@@ -1,5 +1,5 @@
 This repository has been deprecated. The current version of the toolbox is available at:
-https://github.com/v0lta/Jax-Wavelet-Toolbox
+https://github.com/v0lta/Jax-Wavelet-Toolbox .
 
 
 
